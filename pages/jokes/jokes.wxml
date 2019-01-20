@@ -1,0 +1,7 @@
+<!--pages/jokes/jokes.wxml-->
+<view class='joke-group'>
+  <view class='joke-item' wx:for="{{jokes}}" wx:key="{{item.hashId}}">
+    {{item.content}}
+  </view>
+  <loadingmore hasmore="{{hasmore}}"> </loadingmore>
+</view>

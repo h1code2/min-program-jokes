@@ -1,0 +1,12 @@
+/* pages/jokes/jokes.wxss */
+
+.joke-group {
+  padding: 30rpx;
+}
+
+.joke-group .joke-item {
+  padding: 30rpx;
+  margin-bottom: 20rpx;
+  border-radius: 10rpx;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
+}

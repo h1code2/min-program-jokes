@@ -1,0 +1,11 @@
+{
+  "pages":[
+    "pages/jokes/jokes"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "笑话精选",
+    "navigationBarTextStyle":"black"
+  }
+}
